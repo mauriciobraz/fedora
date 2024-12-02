@@ -1,0 +1,21 @@
+[user]
+  name = Maurício Braz Gonçalves
+  email = 82123955+mauriciobraz@users.noreply.github.com
+  signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKoyL18djjarGEGfXgtqSvXe+1XRCvECKJEsIH/zxGUU
+
+[commit]
+  gpgsign = true
+
+[gpg]
+  format = ssh
+
+[gpg "ssh"]
+  program = "/opt/1Password/op-ssh-sign"
+
+[core]
+  excludesFile = "~/.gitignore"
+
+[color]
+  ui = true
+  diff = auto
+  status = auto

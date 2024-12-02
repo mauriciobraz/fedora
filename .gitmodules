@@ -1,0 +1,4 @@
+[submodule ".local/share/icons/Skeuowaita"]
+	url = https://github.com/RusticBard/Skeuowaita.git
+	path = .local/share/icons/Skeuowaita
+	branch = main
