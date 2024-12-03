@@ -1,0 +1,10 @@
+go
+venv
+dist
+build
+target
+dotfiles
+Dotfiles
+DotFiles
+__pycache__
+node_modules
